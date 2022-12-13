@@ -1,11 +1,9 @@
-
 /* Heading */
 .parent{
    display: flex;
    flex-direction: column;
    align-items: center;
    justify-content: center;
-   transform: translateY(20%);
    font-family: 'Lato', sans-serif;
    font-size: 40px;
    text-align: center;
@@ -38,6 +36,7 @@ h2{
 
 body{
     background-image: url("bc.png");
+    background-color: #0E1217;
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -104,6 +103,7 @@ img{
     font-family: 'Lato', sans-serif;
     font-weight: lighter;
     font-size: 18px;
+    color: #000000;
     background: #B4C4FF;
     opacity: 75%;
     width: 163px;
@@ -128,6 +128,7 @@ img{
     font-family: 'Lato', sans-serif;
     font-weight: lighter;
     font-size: 18px;
+    color: #000000;
     background: #A2D2FF;
     opacity: 70%;
     width: 163px;
@@ -162,6 +163,7 @@ span {
     flex-direction: column;
     font-family: 'Lato', sans-serif;
     font-weight: lighter;
+    color: #011323;
     background: #FFFFFF;
     opacity: 90%;
     width: 100px;
